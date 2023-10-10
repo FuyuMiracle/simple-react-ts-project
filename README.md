@@ -12,12 +12,12 @@
 
 ## 鉴权
 
-![home](./src/assets/readme/authRouter.jpg)
+![authRouter](./src/assets/readme/authRouter.jpg)
 
 ## 路由表
 
-![home](./src/assets/readme/router.jpg)
+![router](./src/assets/readme/router.jpg)
 
 ## 读取路由表实现路由跳转
 
-![home](./src/assets/readme/App.jpg)
+![App](./src/assets/readme/App.jpg)
